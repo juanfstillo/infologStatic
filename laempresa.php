@@ -15,7 +15,7 @@
   de máxima calidad en el producto.</p>
 
         </div>
-        <div class="col-lg-6 d-none d-lg-block p-3"><img src="infologclasicopantoneletrablanca.svg" alt="infologLaEmpresa" style="width:300px;"></div>
+        <div class="col-lg-6 d-none d-lg-block p-3"><img src="infoEmpresa.png" alt="infologLaEmpresa" style="width:300px;"></div>
       </div>
     </div>
   </div>
