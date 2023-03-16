@@ -97,7 +97,7 @@ software como en hardware, y descuidar la seguridad del medio donde estos se pro
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+  <div class="footer-copyright text-center py-3">© 2023 Copyright:
     <a href="https://www.linkedin.com/in/juan-franciscostillo/"> JFS </a>
   </div>
   <!-- Copyright -->

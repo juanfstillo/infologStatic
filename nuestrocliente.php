@@ -82,15 +82,11 @@
         <div class="text-center">
           <img src="logo-ypf.jpg" class="rounded" alt="ypf-logo">
         </div>
-         <p class="text-dark font-italic mb-1">Los Objetivos de Infolog S.R.L. están íntimamente relacionados con su política de calidad. Ésta se orienta a satisfacer permanentemente las necesidades y expectativas de YPF, su cliente.</p>
-
+         <p class="text-dark font-italic mb-1">Los Objetivos de Infolog S.R.L. están íntimamente relacionados con su política de calidad. Ésta se orienta a satisfacer permanentemente las necesidades y expectativas de YPF, nuestro cliente.</p>
       </div>
-
-
       <div class="text-center">
         <a href="https://www.ypf.com/Paginas/home.aspx" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Conocé más</a>
       </div>
-
   </section>
 
 </main>

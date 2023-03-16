@@ -13,13 +13,13 @@
           <a class="nav-link text-uppercase" href="index.php">INICIO <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active p-3">
-          <a class="nav-link text-uppercase" href="noticias.php">Noticias <span class="sr-only">(current)</span></a>
+        <a class="nav-link text-uppercase" href="laempresa.php">La Empresa <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active p-3">
-          <a class="nav-link text-uppercase" href="laempresa.php">La Empresa <span class="sr-only">(current)</span></a>
+        <a class="nav-link text-uppercase" href="nuestrocliente.php">Nuestro Cliente <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active p-3">
-          <a class="nav-link text-uppercase" href="nuestrocliente.php">Nuestro Cliente <span class="sr-only">(current)</span></a>
+        <a class="nav-link text-uppercase" href="protocoloCovid19.php">Covid 19 <span class="sr-only">(current)</span></a>
         </li>
       </ul>
     </div>

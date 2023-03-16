@@ -32,7 +32,7 @@
       <div class="row align-items-center">
         <div class="col-lg-5 px-5 mx-auto"><img src="digitalizacion1.png" alt="neuralog" class="img-fluid mb-4 mb-lg-0"></div>
         <div class="col-lg-6"><i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
-          <h2 class="font-weight-light">Digitalización</h2>
+          <h2 class="font-weight-light">Digitalización de información geológica</h2>
           <p class="font-italic text-muted mb-4">Nos ocupamos de optimizar registros petrolíferos.</p><a href="digitalizaciones.php" class="btn btn-primary btn-lg active rounded-pill">Conocé más</a>
         </div>
       </div>
@@ -56,6 +56,13 @@
           <p class="font-italic text-muted mb-4">Contamos con las más altas certificaciones .</p><a href="gestioncalidad.php" class="btn btn-primary btn-lg active rounded-pill">Conocé más</a>
         </div>
         <div class="col-lg-5 px-5 mx-auto order-1 order-lg-2"><img src="boreauVeritas.png" alt="boreauVeritas" class="img-fluid mb-4 mb-lg-0"></div>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-lg-5 px-5 mx-auto"><img src="escaner.jpg" alt="escaner" class="img-fluid mb-4 mb-lg-0"></div>
+        <div class="col-lg-6"><i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
+          <h2 class="font-weight-light">Escaneo de documentos</h2>
+          <p class="font-italic text-muted mb-4">Contamos con equipos de alta gama preparados para el escaneo de hojas, perfiles, documentos y planos.</p><a href="escaneos.php" class="btn btn-primary btn-lg active rounded-pill">Conocé más</a>
+        </div>
       </div>
     </div>
   </div>
