@@ -21,6 +21,9 @@
         <li class="nav-item active p-3">
         <a class="nav-link text-uppercase" href="protocoloCovid19.php">Covid 19 <span class="sr-only">(current)</span></a>
         </li>
+        <li class="nav-item active p-3">
+        <a class="nav-link text-uppercase" href="politicaCalidad.php">Política de Calidad <span class="sr-only">(current)</span></a>
+        </li>
       </ul>
     </div>
   </nav>

@@ -14,14 +14,14 @@ $useCases=[
     "text"=>"En Infolog seguimos trabajando desde casa. Con el fin de continuar prestando nuestro servicio de calidad continuamos realizando nuestras labores desde nuestra casa con el fin de preservar nuestra salud y la de todos. "
 
   ],
-//   [
-//     "imageUrl" => "fichero.png",
-//     "name" => "Extensión del Home Office",
-//     "url"=>"extensionho.php" ,
-//     "text"=>"C"
+  [
+    "imageUrl" => "fichero.png",
+    "name" => "Política de Calidad",
+    "url"=>"extensionho.php" ,
+    "text"=>"C"
 
      
-//   ],
+  ],
 ];
 
 ?>
